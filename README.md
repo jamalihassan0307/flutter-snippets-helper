@@ -218,6 +218,6 @@ Feel free to submit issues and enhancement requests on our GitHub repository.
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [VS Code Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-- [Extension Repository](https://github.com/yourusername/flutter-snippets-helper)
+- [Extension Repository](https://github.com/jamalihassan0307/flutter-snippets-helper)
 
 **Enjoy coding Flutter faster!**

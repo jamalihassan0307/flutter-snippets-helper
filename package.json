@@ -2,14 +2,14 @@
   "name": "flutter-snippets-helper",
   "displayName": "Flutter Snippets Helper",
   "description": "Essential Flutter widget snippets for rapid development",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "7jsscmp4zaio626xj6rxx77zhgeosa4yry5vhbr3hu7gcgt4k73q",
   "engines": {
     "vscode": "^1.93.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/flutter-snippets-helper"
+    "url": "https://github.com/jamalihassan0307/flutter-snippets-helper"
   },
   "license": "MIT",
   "categories": [
@@ -52,8 +52,5 @@
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
   },
-
-  
-
   "icon": "images/logo.png"
 }
